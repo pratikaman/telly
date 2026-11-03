@@ -124,3 +124,7 @@ Something not working? Run `telly --selftest` to check search, streaming and dec
 
 telly stands on [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](https://ffmpeg.org),
 and its look on BBC Ceefax (1974–2012).
+
+## License
+
+[MIT](LICENSE)
